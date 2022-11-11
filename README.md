@@ -1,5 +1,7 @@
 # Movie-App
-A Movie-App is an Android App built with different tools that helps learners to also learn more. You can watch differnt kinds of videos, and is too educative. More features will still be added to it. And i will plead if their is any changes or features that will make this very app looks great please you're free to add your contributions.  
+A Movie-App is an Android App built with different tools that helps learners to also learn more. You can watch differnt kinds of videos, and is too educative. More features will still be added to it. And i will plead if their is any changes or features that will make this very app looks great please you're free to add your contributions. 
+![MovieApp](https://user-images.githubusercontent.com/76081468/201403013-12562af2-ee3d-4627-b322-0d2575d3ea99.JPG)
+
 
 # 𝑻𝒐𝒐𝒍𝒔
 - **Kotlin**
